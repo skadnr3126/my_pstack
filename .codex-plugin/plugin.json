@@ -1,5 +1,5 @@
 {
-  "name": "namuk-process",
+  "name": "my-pstack",
   "version": "0.1.0",
   "description": "Structure development work from request through implementation and verification.",
   "author": {
@@ -13,6 +13,6 @@
     "developerName": "Local developer",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "Structure this development task with Namuk Process."
+    "defaultPrompt": "Structure this development task with my_pstack."
   }
 }
